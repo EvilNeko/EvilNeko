@@ -22,14 +22,6 @@
 - 🌐 **网络配置** —— 分流规则、CF 优选 IP、订阅转换
 - ✍️ **中文文档** —— 部署步骤尽量写全，让后来的人少走弯路
 
-### 📌 自建项目
-
-| 项目 | 说明 |
-| --- | --- |
-| [TGID_bot](https://github.com/EvilNeko/TGID_bot) | 基于 Workers 的零成本 Telegram ID / 元数据查询机器人 |
-| [ACL4SSR](https://github.com/EvilNeko/ACL4SSR) | 自用 ACL4SSR 远程分流配置 |
-| [fastip](https://github.com/EvilNeko/fastip) | 自用 Cloudflare 优选 IP 列表 |
-
 ---
 
 <div align="center">
